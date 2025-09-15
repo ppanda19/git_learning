@@ -1,2 +1,2 @@
 # git_learning
-Learning Git
+This Repo is only for Learning Git
